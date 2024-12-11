@@ -20,6 +20,7 @@ export default function Home() {
       <Second />
       {/* <div className="h-2 z-0 bg-white rounded-lg">
       </div> */}
+      
       <Third />
       {/* <div className="h-2 z-0 bg-white rounded-lg">
       </div> */}
